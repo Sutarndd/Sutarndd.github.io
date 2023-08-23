@@ -1,0 +1,2 @@
+vuepress dev docs
+set NODE_OPTIONS=--openssl-legacy-provider
